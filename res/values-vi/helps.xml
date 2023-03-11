@@ -3,101 +3,101 @@
 
     <string-array name="help_items">
         <item>
-        Basic browsing operations:\n
-        By default, swiping up navigates to the previous item. Swiping down navigates to the next item.\n
-        However you can change this behavior in the action settings.</item>
+        Thao tác duyệt cơ bản:\n
+        Theo mặc định, thao tác vuốt lên sẽ điều hướng đến mục trước đó. Vuốt xuống điều hướng đến mục tiếp theo.\n
+        Tuy nhiên, bạn có thể thay đổi cử chỉ này trong cài đặt hành động.</item>
         <item>
-Main Menu: \n
-        By default, use the down right swipe to open the menu, swipe right to expand more options.\n
-        You can display all menu items at once by customizing it in the settings.</item>
+Menu chính: \n
+        Theo mặc định, sử dụng thao tác vuốt xuống rồi sang phải để mở menu, vuốt sang phải để mở rộng thêm tùy chọn.\n
+        Bạn có thể hiển thị tất cả các mục menu cùng một lúc bằng cách tùy chỉnh nó trong phần cài đặt.</item>
         <item>
-        voice assistant:\n
-        By default, the voice assistant is activated with the down left swipe gesture and the command is spoken after the sound. Tapping the screen will force the immediate recognition\n
-        The voice assistant can be customized in advanced settings, voice assistant settings, voice assistant capabilities settings.\n</item>
+        trợ lý giọng nói:\n
+        Theo mặc định, trợ lý giọng nói được kích hoạt bằng cử chỉ vuốt xuống rồi sang trái và bạn có thể nói lệnh sau khi một âm thanh vang lên. Chạm vào màn hình sẽ buộc nhận dạng ngay lập tức\n
+        Có thể tùy chỉnh trợ lý giọng nói trong cài đặt nâng cao, cài đặt trợ lý giọng nói, cài đặt khả năng của trợ lý giọng nói.\n</item>
         <item>
-Actions menu: \n
-        By default, up right swipe opens the action menu, right swipe expands the menu and double tap activates the focused menu option.</item>
+menu hành động: \n
+        Theo mặc định, vuốt lên rồi sang phải sẽ mở menu hành động, vuốt sang phải sẽ mở rộng menu và nhấn đúp sẽ kích hoạt tùy chọn mục đang tiêu điểm trong menu.</item>
         <item>
-        Extensions:\n
-        By default, the first and last left gestures are used to open the extension list, and then right-slide to open the voice command list, and double-click to execute the corresponding function.\n
-        You can find more plugins in the resource download.\n
-        Advanced settings, voice assistant settings, voice command settings, new, modified or downloaded </item>
+        Tiện ích mở rộng:\n
+        Theo mặc định, cử chỉ đầu tiên và cuối cùng bên trái được sử dụng để mở danh sách tiện ích mở rộng, sau đó trượt sang phải để mở danh sách lệnh thoại và bấm đúp để thực hiện chức năng tương ứng.\n
+        Bạn có thể tìm thấy nhiều tiện ích hơn trong phần tải xuống tài nguyên.\n
+        Cài đặt nâng cao, cài đặt trợ lý giọng nói, cài đặt lệnh thoại, mới, sửa đổi hoặc tải xuống </item>
         <item>
-        Copy, append copy, clipboard and favorites:\n
-        These functions can be found in the operation menu.\n
-        Copy, copy the focus to the clipboard\n
-        Append copy to append the focus content to the last item of the clipboard,\n
-        Clipboard, record the most recently copied content, click to enter the edit box, long press to add content to favorites\n
-        Favorites, click to enter the edit box, long press to edit,\n
-        In advanced settings, resource management can delete or backup clipboard and favorites</item>
+        Sao chép, nối thêm sao chép, khay nhớ tạm và mục yêu thích:\n
+        Các chức năng này có thể được tìm thấy trong menu hoạt động.\n
+        Sao chép, sao chép mục đang tiêu điểm vào khay nhớ tạm\n
+        Nối sao chép để nối nội dung đang tiêu điểm vào khay nhớ tạm bạn đã sao chép trước đó,\n
+        Khay nhớ tạm, ghi lại nội dung được sao chép gần đây nhất, nhấn để nhập vào ô nhập liệu, nhấn lâu để thêm nội dung vào mục yêu thích\n
+        Mục Yêu thích, Nhấn để nhập vào ô nhập liệu, nhấn và giữ để chỉnh sửa,\n
+        Trong cài đặt nâng cao, quản lý tài nguyên có thể xóa hoặc sao lưu khay nhớ tạm và mục yêu thích</item>
         <item>
-        Long copy (premium users only):\n
-        Long copy can copy long list content.\n
-        After the long copy is activated in the operation menu, you need to wait for different time according to the length of the list. When the copy is completed, you will be prompted to complete the long copy.\n
-        During long copying, you can force abort by swiping any gesture.</item>
+        sao chép dài (chỉ dành cho người dùng cao cấp):\n
+        Sao chép dài có thể sao chép nội dung danh sách dài.\n
+        Sau khi sao chép dài được kích hoạt trong menu hoạt động, bạn cần đợi thời gian khác nhau tùy theo độ dài của danh sách. Khi sao chép hoàn thành, bạn sẽ được nhắc hoàn thành sao chép dài.\n
+        Trong quá trình sao chép dài, bạn có thể buộc hủy bỏ bằng cách vuốt bất kỳ cử chỉ nào.</item>
         <item>
-        Full text selection (Premium users only):\n
-        Full-text selection is mainly suitable for copying some content from web pages or longer content.
-        The full text selection can split the content by word, sentence, and segment form, select the required content through the check box form, and finally copy,\n
-        In the content list, you can long press an item as the starting point, and then long press the end of the selection to quickly select multiple consecutive items.</item>
+        Lựa chọn toàn văn (Chỉ người dùng cao cấp):\n
+        Lựa chọn toàn văn chủ yếu phù hợp để sao chép một số nội dung từ các trang web hoặc nội dung dài.
+        Lựa chọn toàn văn có thể chia nội dung theo dạng từ, câu, đoạn, chọn nội dung cần thiết thông qua dạng hộp kiểm, cuối cùng là sao chép,\n
+        Trong danh sách nội dung, bạn có thể nhấn và giữ một mục làm điểm bắt đầu, sau đó nhấn và giữ phần cuối của lựa chọn để chọn nhanh nhiều mục liên tiếp.</item>
         <item>
-        Advanced editing (member function):\n
-        You can edit the focus content according to words, sentences, paragraphs or full text in the edit box or non-edit box to facilitate quick positioning and modification.\n
-        Click on the split edit list to edit it, long press to make the entry more detailed split.\n
-        Edit box can be clicked to enter the edit box, and the non-edit box can only be saved to the clipboard by copying.</item>
+        Chỉnh sửa nâng cao (chức năng thành viên):\n
+        Bạn có thể chỉnh sửa nội dung tiêu điểm theo từ, câu, đoạn hoặc toàn văn trong ô sửa hoặc ô không sửa để tiện cho việc định vị và sửa đổi nhanh chóng.\n
+        Nhấn vào danh sách chỉnh sửa đã chia để chỉnh sửa, nhấn và giữ để mục nhập được chia chi tiết hơn.\n
+        Có thể nhấn vào ô chỉnh sửa để chỉnh sửa và ô không chỉnh sửa chỉ có thể được lưu vào khay nhớ tạm bằng cách sao chép.</item>
         <item>
-        List browsing:\n
-        Display all the focus as a list, click to activate the corresponding focus, especially suitable for use on web pages.</item>
+        duyệt danh sách:\n
+        Hiển thị tất cả tiêu điểm dưới dạng danh sách, nhấn để kích hoạt tiêu điểm tương ứng, đặc biệt thích hợp để sử dụng trên các trang web.</item>
         <item>
-        Reading mode (member function):\n
-        You can read webpage articles opened by the browser, filter unwanted content, and turn pages automatically.</item>
+        Chế độ đọc (chức năng thành viên):\n
+        Bạn có thể đọc các bài viết trên trang web do trình duyệt mở, lọc nội dung không mong muốn và chuyển trang tự động.</item>
         <item>
-        Virtual screen (member function):\n
-        The OCR recognizes the content on the screen, displays the result according to the text position, clicks the result text to activate the corresponding focus, long presses the word to split the focus, and clicks the word to activate the position of the corresponding word.\n
-        Android 7 or above double-click to activate, Android 6 below three times to activate.</item>
+        Màn hình ảo (chức năng thành viên):\n
+        OCR nhận dạng nội dung trên màn hình, hiển thị kết quả theo vị trí văn bản, nhấn vào văn bản kết quả để kích hoạt tiêu điểm tương ứng, nhấn và giữ từ để tách tiêu điểm và nhấn vào từ để kích hoạt vị trí của từ tương ứng.\n
+        Android 7 trở lên nhấp đúp để kích hoạt, Android 6 trợ xuống thì nhấn ba lần để kích hoạt.</item>
         <item>
-        Text recognition (member function):\n
-        The content on the screen is recognized by the OCR, and the result is displayed in a list form, and the result list is clicked to activate the corresponding focus, the long press is followed by the word display result, and the single word is activated to activate the position of the corresponding word.\n
-        Clicking is not supported under Android 6 and only results can be viewed.</item>
+        Nhận dạng văn bản (chức năng thành viên):\n
+        Nội dung trên màn hình được OCR nhận dạng và kết quả được hiển thị ở dạng danh sách, và danh sách kết quả được nhấn để kích hoạt tiêu điểm tương ứng, nhấn lâu theo sau là kết quả hiển thị từ và một từ được kích hoạt để kích hoạt vị trí của từ tương ứng.\n
+        Nhấn không được hỗ trợ trong Android 6 và chỉ có thể xem kết quả.</item>
         <item>
-        Captcha identification (member function):\n
-        Touch the verification code focus, use advanced menu, verification code identification, or voice assistant, verification code identification, can recognize English or digital verification code, and the recognition result is automatically copied to the clipboard.</item>
+        Nhận dạng Captcha (chức năng thành viên):\n
+        Chạm vào tiêu điểm mã xác minh, sử dụng menu nâng cao, nhận dạng mã xác minh, hoặc trợ lý giọng nói, nhận dạng mã xác minh, có thể nhận dạng tiếng Anh hoặc mã xác minh kỹ thuật số, và kết quả nhận dạng được tự động sao chép vào khay nhớ tạm.</item>
         <item>
-        Jieshuo camera (member function):\n
-        The camera can recognize text, scenes, animals, plants, or for camera guidance. The camera currently supports only the rear camera, using volume plus shooting, volume minus switching mode.</item>
+        Máy ảnh Jieshuo (chức năng thành viên):\n
+        Máy ảnh có thể nhận dạng văn bản, cảnh, động vật, thực vật hoặc hướng dẫn máy ảnh. Máy hiện chỉ hỗ trợ camera sau, sử dụng phím tăng âm lượng chụp, Dảm âm lượng chuyển đổi chế độ.</item>
         <item>
-        Quickly navigate between list items:\n
-        In the operation settings, left and right shortcut gesture settings enable the left and right gestures to move quickly in the list, you can use the left or right gesture to quickly browse the message in the list of QQ messages, for example.</item>
+        Điều hướng nhanh giữa các mục danh sách:\n
+        Trong cài đặt hoạt động, cài đặt cử chỉ phím tắt trái và phải cho phép cử chỉ trái và phải di chuyển nhanh trong danh sách, bạn có thể sử dụng cử chỉ trái hoặc phải để duyệt nhanh tin nhắn trong danh sách tin nhắn QQ chẳng hạn.</item>
         <item>
-        Notification black/whitelist:\n
-        The notification blacklist can filter out notifications containing the specified content, and input an asterisk to filter all notifications of the application.\n
-        The notification whitelist can allow reading of notifications containing the specified content, even if the notification has been closed, entering an asterisk indicates that all notifications for the program are allowed.\n
-        Keywords support regular expressions.</item>
+        Thông báo danh sách đen/trắng:\n
+        Danh sách đen thông báo có thể lọc ra các thông báo chứa nội dung đã chỉ định và nhập dấu sao để lọc tất cả các thông báo của ứng dụng.\n
+        Danh sách trắng thông báo có thể cho phép đọc các thông báo chứa nội dung đã chỉ định, ngay cả khi thông báo đã bị đóng, việc nhập dấu sao cho biết rằng tất cả các thông báo cho chương trình đều được phép.\n
+        Từ khóa hỗ trợ biểu thức chính quy.</item>
         <item>
-        Content blacklist:\n
-        You can filter the focus content of the specified content, usually used to filter some non-standard accessibility instructions.\n
-        Regular expressions are not supported based on efficiency considerations.</item>
+        danh sách đen nội dung:\n
+        Bạn có thể lọc nội dung tiêu điểm của nội dung được chỉ định, thường được sử dụng để lọc một số hướng dẫn trợ năng không đúng.\n
+        Cụm từ thông dụng không được hỗ trợ dựa trên các cân nhắc về hiệu quả.</item>
         <item>
-        Web content filtering (member function):\n
-        Filters the useless image annotations on the page to filter out the lengthy and useless instructions on the page.\n
-        Stronger filtering can further filter out unnecessary non-essential content.</item>
+        Lọc nội dung web (chức năng thành viên):\n
+        Lọc các chú thích hình ảnh vô dụng trên trang lọc ra các hướng dẫn dài dòng và vô ích trên trang.\n
+        Lọc mạnh hơn có thể lọc thêm nội dung không cần thiết.</item>
         <item>
-        Powerful mode (member function):\n
-        Powerful mode gives you more operational focus,\n
-        It is known to bring better experiences in software such as WeChat Sports, WeChat Friends Circle, Taobao Footprint, Huawei Router and so on.</item>
+        Chế độ mạnh mẽ (chức năng thành viên). Cái này ghi sao tôi dịch vậy à nha. Tôi không biết phải dịch chế độ này thế nào cho đúng cả. Hãy chỉ đọc để tham khảo thôi nha:\n
+        Chế độ mạnh mẽ giúp bạn tập trung hơn vào hoạt động,\n
+        Nó được biết là mang lại trải nghiệm tốt hơn trong phần mềm như WeChat Sports, WeChat Friends Circle, Taobao Footprint, Huawei Router, v.v..</item>
         <item>
-        Virtual navigation (member function):\n
-        Virtual navigation can add the location of content that cannot be directly clicked to the navigation list.\n
-        Please add only the focus of the immutable position, click on the recognized focus input name in the recognition click to add,\n
-        Only supports Android 7 or above.</item>
+        Điều hướng ảo (chức năng thành viên):\n
+        Điều hướng ảo có thể thêm vị trí của nội dung không thể nhấn trực tiếp vào danh sách điều hướng.\n
+        Vui lòng chỉ thêm tiêu điểm của vị trí không thay đổi, nhấn vào tên đầu vào tiêu điểm được nhận dạng trong phần nhận dạng nhấn để thêm,\n
+        Chỉ hỗ trợ Android 7 trở lên.</item>
         <item>
-        Custom gestures:\n
-        You can customize any built-in or extended features as gestures.\n
-        Quickly change gestures by importing a gesture pack.\n
-        After the gesture is imported, it needs to be set in the operation, and the gesture scheme switching can take effect.\n
-        If you are not familiar with the operation suggestions in the common settings, customize the gesture to modify the gesture.</item>
+        Cử chỉ tùy chỉnh:\n
+        Bạn có thể tùy chỉnh mọi tính năng tích hợp hoặc mở rộng dưới dạng cử chỉ.\n
+        Nhanh chóng thay đổi cử chỉ bằng cách nhập bộ cử chỉ.\n
+        Sau khi cử chỉ được nhập, nó cần được đặt trong thao tác và chuyển đổi bộ cử chỉ có thể có hiệu lực.\n
+        Nếu bạn không quen với các thao tác trong cài đặt chung, hãy tùy chỉnh cử chỉ để sửa đổi cử chỉ.</item>
         <item>
-        Two-step gestures (member function):\n
+        Phần này chưa được dịch. Tôi sẽ cập nhật sau. Hứa. Two-step gestures (member function):\n
         A two-step gesture is an operation that quickly operates a second gesture after a traditional gesture operation is completed.\n
         It can be turned on or customized in the action settings, two-step gestures,\n
         After the two-step gesture is turned on, there is a half-second delay after the first gesture operation is completed, waiting for the second step.\n

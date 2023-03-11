@@ -275,25 +275,25 @@
         <item>@string/command_virtual_navigation</item>
     </string-array>
     <string-array name="left_button">
-        <item>Hang up</item>
-        <item>Decline</item>
-        <item>*Swipe left to decline*</item>
-        <item>End call</item>
-        <item>Hang up</item>
-        <item>End call</item>
+        <item>Gác máy</item>
+        <item>Từ chối</item>
+        <item>*Vuốt sang trái để từ chối*</item>
+        <item>Kết thúc cuộc gọi</item>
+        <item>Gác máy</item>
+        <item>Kết thúc cuộc gọi</item>
         <item>结束QQ通话</item>
         <item>结束QQ电话</item>
-        <item>Previous media</item>
-        <item>Previous track</item>
-        <item>Go back</item>
+        <item>Phương tiện trước</item>
+        <item>Phương tiện trước</item>
+        <item>Quay lại</item>
     </string-array>
     <string-array name="right_button">
-        <item>Answer</item>
-        <item>*Swipe right to answer*</item>
-        <item>Hands-free</item>
-        <item>Speaker</item>
-        <item>Next media</item>
-        <item>Next track</item>
+        <item>Trả lời</item>
+        <item>*Vuốt sang phải để trả lời*</item>
+        <item>Rảnh tay</item>
+        <item>Loa</item>
+        <item>Phương tiện tiếp</item>
+        <item>Phương tiện tiếp</item>
     </string-array>
 
     <string-array name="voice_recognizer_values">
@@ -303,10 +303,10 @@
         <item>2</item>
     </string-array>
     <string-array name="voice_recognizer_entries">
-        <item>System engine</item>
-        <item>Engine 1</item>
-        <item>Engine 2</item>
-        <item>Engine 3</item>
+        <item>Công cụ hệ thống</item>
+        <item>Công cụ 1</item>
+        <item>Công cụ 2</item>
+        <item>Công cụ 3</item>
     </string-array>
     <string-array name="tts_values">
         <item>0</item>
@@ -412,8 +412,8 @@
         <item>100</item>
     </string-array>
     <!--string-array name="tts_speaker_title">
-        <item>Female voice</item>
-        <item>Male voice</item>
+        <item>giọng nữ</item>
+        <item>Giọng nam</item>
         <item>Du Xiao Yao</item>
         <item>Du Ya Ya</item>
     </string-array>
@@ -424,10 +424,10 @@
         <item>4</item>
     </string-array-->
     <string-array name="vibrate_intensity_entries">
-        <item>Light</item>
-        <item>Medium</item>
-        <item>Strong</item>
-        <item>Strongest</item>
+        <item>Sáng</item>
+        <item>Trung bình</item>
+        <item>Mạnh</item>
+        <item>Rất mạnh</item>
     </string-array>
     <string-array name="vibrate_intensity_values">
         <item>12</item>
@@ -436,9 +436,9 @@
         <item>64</item>
     </string-array>
     <string-array name="long_click_entries">
-        <item>Short</item>
-        <item>Medium</item>
-        <item>Long</item>
+        <item>Ngắn</item>
+        <item>Trung bình</item>
+        <item>Dài</item>
     </string-array>
     <string-array name="long_click_values">
         <item>500</item>
@@ -446,10 +446,10 @@
         <item>1000</item>
     </string-array>
     <string-array name="edge_gesture_width_entries">
-        <item>Small</item>
-        <item>Medium</item>
-        <item>Big</item>
-        <item>Maximum</item>
+        <item>Nhỏ</item>
+        <item>Trung bình</item>
+        <item>Lớn</item>
+        <item>tối đa</item>
     </string-array>
     <string-array name="edge_gesture_width_values">
         <item>8</item>
@@ -466,46 +466,46 @@
         <item>xiaofeng</item>
     </string-array>
     <string-array name="advanced_menu_items">
-        <item>Translate current focus and copy the translation</item>
-        <item>Recognize scenery</item>
-        <item>Recognize then translate the text of current focus</item>
-        <item>Face recognition</item>
-        <item>CAPTCHA recognition</item>
-        <item>View recognition results</item>
-        <item>Image recognition</item>
-        <item>Slider puzzle verification</item>
-        <item>Exam recognition</item>
+        <item>Dịch tiêu điểm hiện tại và sao chép bản dịch</item>
+        <item>Nhận biết phong cảnh</item>
+        <item>Nhận dạng sau đó dịch văn bản của tiêu điểm hiện tại</item>
+        <item>Nhận dạng khuôn mặt</item>
+        <item>nhận dạng CAPTCHA</item>
+        <item>Xem kết quả nhận dạng</item>
+        <item>nhận dạng hình ảnh</item>
+        <item>Xác minh câu đố thanh trượt</item>
+        <item>nhận dạng câu đố</item>
     </string-array>
     <string-array name="lang_entries">
-        <item>Automatic</item>
-        <item>Korean</item>
-        <item>Classical Chinese</item>
-        <item>Chinese traditional</item>
-        <item>Dutch</item>
-        <item>Thai</item>
-        <item>Greek</item>
-        <item>Italian</item>
-        <item>Slovenian</item>
-        <item>Japanese</item>
-        <item>English</item>
-        <item>Arabic</item>
-        <item>Chinese Cantonese</item>
-        <item>Hungarian</item>
-        <item>Estonian</item>
-        <item>Romanian</item>
-        <item>Chinese</item>
-        <item>Czech</item>
-        <item>German</item>
-        <item>French</item>
-        <item>Finnish</item>
-        <item>Portuguese</item>
-        <item>Danish</item>
-        <item>Russian</item>
-        <item>Bulgarian</item>
-        <item>Spanish</item>
-        <item>Svedish</item>
+        <item>Tự động</item>
+        <item>Hàn Quốc</item>
+        <item>Trung quốc phồn thể</item>
+        <item>Trung quốc dản thể</item>
+        <item>Hà Lan</item>
+        <item>Thái</item>
+        <item>Hy Lạp</item>
+        <item>Ý</item>
+        <item>Slovenia</item>
+        <item>Nhật</item>
+        <item>Anh</item>
+        <item>Ả Rập</item>
+        <item>Quảng Đông</item>
+        <item>Hungary</item>
+        <item>Estonia</item>
+        <item>Rumani</item>
+        <item>Trung quốc</item>
+        <item>Séc</item>
+        <item>Đức</item>
+        <item>Pháp</item>
+        <item>Phần Lan</item>
+        <item>Bồ Đào Nha</item>
+        <item>Đan Mạch</item>
+        <item>Nga</item>
+        <item>Bungari</item>
+        <item>Tây Ban Nha</item>
+        <item>Thụy Điển</item>
         <item>Polish</item>
-        <item>Vietnamese</item>
+        <item>Việt nam</item>
 
         <item>Irish</item>
         <item>Orkish</item>
@@ -886,23 +886,23 @@
     </string-array>
 
     <string-array name="tts_engine_values">
-        <item>system</item>
+        <item>hệ thống</item>
         <item>unisound</item>
         <item>baidu</item>
     </string-array>
     <string-array name="tts_engine_entries">
-        <item>System TTS engine</item>
+        <item>Công cụ giọng nói hệ thống</item>
         <item>Uni sound</item>
         <item>Baidu</item>
     </string-array>
     <string-array name="tts_engine_vip_values">
-        <item>system</item>
+        <item>Hệ thống</item>
         <item>iflytek</item>
         <item>unisound</item>
         <item>baidu</item>
     </string-array>
     <string-array name="tts_engine_vip_entries">
-        <item>System TTS engine</item>
+        <item>Công cụ giọng nói hệ thống</item>
         <item>IFlytek</item>
         <item>Uni sound</item>
         <item>Baidu Cloud TTS</item>
@@ -915,11 +915,11 @@
         <item>60</item>
     </string-array>
     <string-array name="alarm_interval_entries">
-        <item>Every 5 minutes</item>
-        <item>Every 10 minutes</item>
-        <item>Every 15 minutes</item>
-        <item>Every 30 minutes</item>
-        <item>Every hour</item>
+        <item>Cứ sau 5 phút</item>
+        <item>Cứ sau 10 phút</item>
+        <item>Cứ sau 15 phút</item>
+        <item>Cứ sau 30 phút</item>
+        <item>Mỗi tiếng</item>
     </string-array>
     <string-array name="timer_interval_values">
         <item>1</item>
@@ -928,10 +928,10 @@
         <item>15</item>
     </string-array>
     <string-array name="timer_interval_entries">
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
+        <item>1 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>15 phút</item>
     </string-array>
     <string-array name="alarm_hour_values">
         <item>0</item>
@@ -985,88 +985,88 @@
         <item>5</item>
     </string-array>
     <string-array name="web_type_title" >
-        <item>Default</item>
-        <item>Headings</item>
-        <item>Links</item>
-        <item>Buttons</item>
+        <item>Mặc định</item>
+        <item>tiêu đề</item>
+        <item>liên kết</item>
+        <item>nút</item>
 
-        <item>Landmarks</item>
-        <item>Text boxes</item>
-        <item>Focusable elements</item>
-        <item>Controls</item>
-        <item>Images</item>
-        <item>Check boxes</item>
-        <item>Combo boxes</item>
-        <item>Forms</item>
-        <item>Lists</item>
-        <item>List items</item>
+        <item>Mốc</item>
+        <item>ô nhập liệu</item>
+        <item>Phần tử có thể tập trung</item>
+        <item>điều khiển</item>
+        <item>Hình ảnh</item>
+        <item>hộp kiểm</item>
+        <item>Danh sách thả xuống</item>
+        <item>Biểu mẫu</item>
+        <item>danh sách</item>
+        <item>Mục danh sách</item>
 
-        <item>Scrolling mode</item>
-        <item>Views</item>
+        <item>chế độ cuộn</item>
+        <item>Xem</item>
 
-        <item>Characters</item>
-        <item>Words</item>
-        <item>Lines</item>
-        <item>Paragraphs</item>
-        <item>Pages</item>
-        <item>Copying mode</item>
-        <item>Media volume</item>
-        <item>TTS rate</item>
-        <item>OCr and translation</item>
-        <item>Screen areas</item>
+        <item>Kí tự</item>
+        <item>Từ</item>
+        <item>Dòng</item>
+        <item>đoạn</item>
+        <item>Trang</item>
+        <item>chế độ sao chép</item>
+        <item>âm lượng phương tiện</item>
+        <item>Tốc độ giọng nói</item>
+        <item>OCr và dịch</item>
+        <item>Vùng màn hình</item>
 
     </string-array>
 
     <string-array name="hot_key_help_items" >
-        <item>CTRL+DPAD_UP: Previous element</item>
-        <item>CTRL+DPAD_DOWN: Next element</item>
-        <item>CTRL+DPAD_LEFT: Left shortcut</item>
-        <item>CTRL+DPAD_RIGHT: Right shortcut</item>
-        <item>CTRL+PAGE_UP: Scroll up</item>
-        <item>CTRL+PAGE_DOWN: Scroll down</item>
-        <item>CTRL+H: Home screen</item>
-        <item>CTRL+N: Notification bar</item>
-        <item>CTRL+P: Recent applications</item>
-        <item>CTRL+SPACE: Click</item>
-        <item>CTRL+L: Long press</item>
-        <item>CTRL+Q: Quick settings</item>
+        <item>CTRL+DPAD_UP: Phần tử trước</item>
+        <item>CTRL+DPAD_DOWN: Phần tử tiếp</item>
+        <item>CTRL+DPAD_LEFT: Phím tắt trước</item>
+        <item>CTRL+DPAD_RIGHT: Phím tắt tiếp</item>
+        <item>CTRL+PAGE_UP: Cuộn lên</item>
+        <item>CTRL+PAGE_DOWN: Cuộn xuống</item>
+        <item>CTRL+H: Màn hình chính</item>
+        <item>CTRL+N: thanh thông báo</item>
+        <item>CTRL+P: ứng dụng gần đây</item>
+        <item>CTRL+SPACE: Nhấn</item>
+        <item>CTRL+L: Nhấn lâu</item>
+        <item>CTRL+Q: Cài đặt nhanh</item>
 
-        <item>ALT+M: Main menu</item>
-        <item>ALT+A: Function menu</item>
-        <item>ALT+P: Extensions</item>
-        <item>ALT+T: Tools</item>
-        <item>ALT+V: Voice assistant</item>
-        <item>ALT+S: Granular editing mode</item>
-        <item>ALT+L: List browsing mode</item>
+        <item>ALT+M: Menu chính</item>
+        <item>ALT+A: Menu chức năng</item>
+        <item>ALT+P: Tiện ích mở rộng</item>
+        <item>ALT+T: Công cụ</item>
+        <item>ALT+V: trợ lý giọng nói</item>
+        <item>ALT+S: Chế độ chỉnh sửa chi tiết</item>
+        <item>ALT+L: Chế độ duyệt danh sách</item>
 
     </string-array>
       <string-array name="view_type_title" >
-        <item>Default</item>
-        <item>Labels</item>
-        <item>Buttons</item>
-        <item>Text boxes</item>
+        <item>Mặc định</item>
+        <item>nhãn</item>
+        <item>nút</item>
+        <item>ô nhập liệu</item>
 
-        <item>Images</item>
-        <item>Check boxes</item>
-        <item>Progress bars</item>
-        <item>Lists</item>
-        <item>List items</item>
-        <item>Focusable elements</item>
-        <item>Clickable elements</item>
-        <item>Nodes</item>
-        <item>Scrolling mode</item>
-        <item>Vertical navigation</item>
+        <item>Hình ảnh</item>
+        <item>hộp kiểm</item>
+        <item>thanh tiến trình</item>
+        <item>danh sách</item>
+        <item>Mục danh sách</item>
+        <item>Phần tử có thể tập trung</item>
+        <item>Phần tử có thể nhấn</item>
+        <item>Nút</item>
+        <item>chế độ cuộn</item>
+        <item>điều hướng dọc</item>
 
-        <item>Characters</item>
-        <item>Words</item>
-        <item>Lines</item>
-        <item>Headings</item>
-        <item>Pages</item>
-        <item>Copying mode</item>
-        <item>Media volume</item>
-        <item>TTS rate</item>
-        <item>OCr and translation</item>
-        <item>Screen areas</item>
+        <item>Kí tự</item>
+        <item>Từ</item>
+        <item>Dòng</item>
+        <item>tiêu đề</item>
+        <item>Trang</item>
+        <item>chế độ sao chép</item>
+        <item>âm lượng phương tiện</item>
+        <item>Tốc độ giọng nói</item>
+        <item>Dịch và OCR</item>
+        <item>Vùng màn hình</item>
 
     </string-array>
 
